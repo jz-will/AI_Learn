@@ -1,4 +1,6 @@
 import numpy as np
+import matplotlib.pyplot as plt
+
 
 a=np.linspace(1,10,4)   #根据起步数据等间距填充数据，形成数组
 b=np.linspace(1,10,4,endpoint=False)
